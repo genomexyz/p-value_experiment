@@ -19,8 +19,8 @@ endlon = 160.
 startlat = -20.
 endlat = 70.
 #-6.127171, 106.652756
-targetlat = -6.127171
-targetlon = 106.652756
+targetlat = LATVAL
+targetlon = LONVAL
 
 #spasial, start from bottom left!!!
 latitude = np.arange(startlat+resol,endlat+resol/2,resol)
